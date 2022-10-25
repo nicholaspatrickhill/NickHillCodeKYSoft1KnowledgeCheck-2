@@ -25,7 +25,7 @@
 
             // Print out the list of records using Console.WriteLine()
             foreach (var cat in recordList)
-            Console.WriteLine("Your cat us named " + cat.Name + " and it is " + cat.Color + " in color.");
+            Console.WriteLine("Your cat is named " + cat.Name + " and it is " + cat.Color + " in color.");
         }
     }
 }
