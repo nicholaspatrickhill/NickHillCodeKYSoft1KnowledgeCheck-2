@@ -19,7 +19,6 @@
                 Console.WriteLine("Enter the value for Color");
                 cat.Color = Console.ReadLine();
 
-
                 recordList.Add(new Cat() { Name = cat.Name, Color = cat.Color });
             }
 
