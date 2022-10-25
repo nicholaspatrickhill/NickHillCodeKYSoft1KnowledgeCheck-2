@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Nick_Hill_sdc1_knowledge_check_2
 {
-    abstract class Animal
+    public abstract class Animal
     {
     }
 }

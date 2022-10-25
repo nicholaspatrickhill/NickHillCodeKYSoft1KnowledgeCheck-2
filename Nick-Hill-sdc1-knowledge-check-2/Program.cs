@@ -11,13 +11,13 @@
             for (int i = 0; i < numberOfRecords; i++)
             {
                 // In this loop, populate the object's properties using Console.ReadLine()
-                var myClass = new Cat();
+                var cat = new Cat();
 
                 Console.WriteLine("Enter the value for ");
                 myClass. = Console.ReadLine();
 
 
-                recordList.Add(Cat);
+                recordList.Add(cat);
             }
 
             // Print out the list of records using Console.WriteLine()
