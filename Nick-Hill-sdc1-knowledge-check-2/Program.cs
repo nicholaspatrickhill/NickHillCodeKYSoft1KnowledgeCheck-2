@@ -13,14 +13,19 @@
                 // In this loop, populate the object's properties using Console.ReadLine()
                 var cat = new Cat();
 
-                Console.WriteLine("Enter the value for ");
-                myClass. = Console.ReadLine();
+                Console.WriteLine("Enter the value for Name");
+                cat.Name = Console.ReadLine();
+
+                Console.WriteLine("Enter the value for Color");
+                cat.Color = Console.ReadLine();
 
 
-                recordList.Add(cat);
+                recordList.Add(new Cat() { Name = cat.Name, Color = cat.Color });
             }
 
             // Print out the list of records using Console.WriteLine()
+            foreach (var cat in recordList)
+            Console.WriteLine("Your cat us named " + cat.Name + " and it is " + cat.Color + " in color.");
         }
     }
 }

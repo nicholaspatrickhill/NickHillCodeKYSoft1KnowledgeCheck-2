@@ -8,5 +8,6 @@ namespace Nick_Hill_sdc1_knowledge_check_2
 {
     public class Cat : Animal
     {
+        public string Name { get; set; }
     }
 }

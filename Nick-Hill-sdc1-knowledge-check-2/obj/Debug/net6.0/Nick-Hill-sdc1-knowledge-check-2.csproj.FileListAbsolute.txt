@@ -3,3 +3,13 @@ C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-know
 C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\obj\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.AssemblyInfoInputs.cache
 C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\obj\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.AssemblyInfo.cs
 C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\obj\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\bin\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.exe
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\bin\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.deps.json
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\bin\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.runtimeconfig.json
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\bin\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.dll
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\bin\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.pdb
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\obj\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.dll
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\obj\Debug\net6.0\refint\Nick-Hill-sdc1-knowledge-check-2.dll
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\obj\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.pdb
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\obj\Debug\net6.0\Nick-Hill-sdc1-knowledge-check-2.genruntimeconfig.cache
+C:\Users\nicho\source\repos\Nick-Hill-sdc1-knowledge-check-2\Nick-Hill-sdc1-knowledge-check-2\obj\Debug\net6.0\ref\Nick-Hill-sdc1-knowledge-check-2.dll

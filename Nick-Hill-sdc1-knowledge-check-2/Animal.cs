@@ -8,5 +8,7 @@ namespace Nick_Hill_sdc1_knowledge_check_2
 {
     public abstract class Animal
     {
+        public string Color { get; set; }
+
     }
 }
